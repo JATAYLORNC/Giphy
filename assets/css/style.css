@@ -1,0 +1,39 @@
+body {
+    background-image: url("../images/JT1jNk.jpg");
+}
+
+input, button {
+    margin: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+#marineAnimalSearch {
+    margin-top: 15px;
+}
+
+#form-div, #form-button-div, #marineAnimalInput {
+    margin-bottom: 0;
+    margin-left: 0;
+}
+
+#addMarineAnimal {
+    margin-top: 10px;
+    margin-left: 15px;
+    background-color: #3987C9;
+    color: #ffffff
+}
+
+label {
+    color: black;
+    font-size: 16px;
+    margin-top: 5px;
+    margin-right: 0px;
+}
+
+#giphyDisplay {
+    margin-top: 15px;
+}

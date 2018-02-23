@@ -1,7 +1,7 @@
 //variable to hold initial array of marine animals
-var marineAnimals = ["Dolphin", "Killer Whale", "Whale Shark", "Great White Shark", "Hammerhead Shark", "Mako Shark", "Blue Whale", 
-"Sperm Whale", "Grouper", "Flounder", "Beluga Whale", "Fur Seal", "Walrus", "Sea Lion", "Sea Otter", "Starfish", "Sea Horse", 
-"Clown Fish", "Sting Ray", "Blue Tang", "Octopus", "Sea Turtle"];
+var marineAnimals = ["Beluga Whale", "Blue Tang", "Blue Whale", "Clown Fish", "Dolphin", "Fur Seal", "Great White Shark", 
+"Grouper", "Hammerhead Shark", "Jellyfish", "Killer Whale", "Mako Shark", "Octopus", "Penguin", "Sea Horse", "Sea Lion", 
+"Sea Otter", "Sea Turtle", "Sperm Whale", "Sting Ray", "Walrus", "Whale Shark"];
 
 //variable to hold query URL
 var queryURL;

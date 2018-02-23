@@ -1,5 +1,5 @@
 body {
-    background-image: url("../images/JT1jNk.jpg");
+    background-image: url("../images/ocean.jpg");
 }
 
 input, button {
@@ -11,18 +11,19 @@ h1 {
     color: black;
 }
 
-#marineAnimalSearch {
+/* #marineAnimalSearch {
     margin-top: 15px;
-}
+} */
 
 #form-div, #form-button-div, #marineAnimalInput {
     margin-bottom: 0;
     margin-left: 0;
+    margin-top: 0;
 }
 
 #addMarineAnimal {
+    margin-left: 0;
     margin-top: 10px;
-    margin-left: 15px;
     background-color: #3987C9;
     color: #ffffff
 }
@@ -31,9 +32,39 @@ label {
     color: black;
     font-size: 16px;
     margin-top: 5px;
-    margin-right: 0px;
+    margin-right: 0;
+    margin-bottom: 0;
 }
 
 #giphyDisplay {
     margin-top: 15px;
 }
+
+.mabutton {
+    background-color: #3987C9; 
+    color: #ffffff;
+    text-transform: capitalize;
+}
+
+.imgDiv {
+    position: relative; 
+    max-width: 375px; 
+    max-height: 275px; 
+    display: inline-block;
+}
+
+.rating {
+    text-align: center; 
+    color: #ffffff; 
+    font-size: 24px;
+}
+
+.giphyImage {
+    margin: 15px;
+}
+
+.giphyImage:hover {
+    cursor: pointer;
+}
+
+            
